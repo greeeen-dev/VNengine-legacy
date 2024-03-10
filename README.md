@@ -7,6 +7,6 @@ this, but remember to credit me for it since in the end it's still my code.
 The name's been scrapped as well, but the project is still ongoing. The repository for that is private for now, 
 as the code is still very WIP.
 
-Both legacy (PC) and rewrite (Android) engines are licensed under GPLv3.
+The engine is very poorly optimized, so if you have a potato, good luck running it.
 
 enjoy :P
